@@ -46,7 +46,7 @@ int main(int argc, string argv[])
             
             printf("%c",(char) tmp);
             j++;
-        }
+        }// copied aa!!
         else
             printf("%c",s[i]);
             
