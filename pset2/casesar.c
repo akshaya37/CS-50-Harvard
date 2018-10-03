@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<ctype.h>
-
+// where is credit card validation
 int main(int argc, string argv[])
 {
     if(argc!=2)
